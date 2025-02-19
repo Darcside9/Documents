@@ -12,7 +12,7 @@ def log():
     return "OK"
 
 def start_ngrok():
-    ngrok.set_auth_token("{{YOUR_NGROK_AUTH_TOKEN}}")  # Get from ngrok dashboard
+    ngrok.set_auth_token("{{2tDegvdBpo8vR6zjOp7H0ngzkrg_58GkiGci1E4azpDyph686}}")  # Get from ngrok dashboard
     public_url = ngrok.connect(5000, bind_tls=True).public_url
     print(f"\n[+] Ngrok URL: {public_url}/log")
 
