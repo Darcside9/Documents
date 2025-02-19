@@ -1,0 +1,9 @@
+{"timestamp": "2025-02-18T20:00:34.948857", "type": "pdf_open", "client_ip": "127.0.0.1", "user_agent": "Python-urllib/3.11", "requested_path": "/?doc_id=Abn6w2k3AQY/tracking-pixel.png"}
+{"timestamp": "2025-02-18T20:07:42.061763", "type": "GET (PDF Opened)", "client_ip": "127.0.0.1", "user_agent": "Python-urllib/3.11", "params": {"doc_id": ["D490vxZuR-4/tracking-pixel.png"]}}
+{"timestamp": "2025-02-18T20:34:07.150909", "type": "GET (PDF Opened)", "client_ip": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36", "params": {}}
+{"timestamp": "2025-02-18T20:34:07.831907", "type": "GET (PDF Opened)", "client_ip": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36", "params": {}}
+{"timestamp": "2025-02-18T20:34:27.904153", "type": "GET (PDF Opened)", "client_ip": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36", "params": {}}
+{"timestamp": "2025-02-18T20:34:28.516563", "type": "GET (PDF Opened)", "client_ip": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36", "params": {}}
+{"timestamp": "2025-02-18T21:14:24.576926", "type": "GET (PDF Opened)", "client_ip": "127.0.0.1", "user_agent": "curl/8.12.1-DEV", "params": {}}
+{"timestamp": "2025-02-18T21:18:03.407606", "type": "GET (PDF Opened)", "client_ip": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36", "params": {}}
+{"timestamp": "2025-02-18T21:18:04.020622", "type": "GET (PDF Opened)", "client_ip": "127.0.0.1", "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36", "params": {}}
